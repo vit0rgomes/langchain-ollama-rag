@@ -102,7 +102,9 @@ Execute o notebook `main.ipynb`:
 ```
 ## Conclusão
 
-Este sistema RAG oferece uma solução completa e 100% local para consulta inteligente de documentos PDF, sem depender de APIs externas pagas. Ao combinar o poder dos embeddings do Ollama com o banco vetorial Chroma
+Este sistema RAG oferece uma solução completa e 100% local para consulta inteligente de documentos PDF, sem depender de APIs externas pagas. Ao combinar o poder dos embeddings do Ollama com o banco vetorial Chroma.
+
+Existem outras possibilidades, como utilizar LLMs de nuvem em vez de LLMs locais como o Ollhama, mas será necessaria uma Key para acessá-las!
 
 ---
 
